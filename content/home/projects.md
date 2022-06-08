@@ -27,8 +27,8 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: Randomized SQP
+      tag: Randomized SQP
     - name: Other
       tag: Demo
 
