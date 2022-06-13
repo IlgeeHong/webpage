@@ -14,7 +14,7 @@ email: ""
 highlight_name: true
 interests:
 - Machine Learning
-- Natural Language Processing
+- Machine Learning for graph-structured data
 - Non-convex optimization
 organizations:
 - name: Department of Statistics

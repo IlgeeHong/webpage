@@ -53,7 +53,7 @@ experience:
     date_end: ''
     description: |2-
       Supervised by Professor Claire Donnat:
-        * Studying on representation learning for graph data with self-supervised methods.
+        * Semi-supervised graph contrastive learning.
     
 
 design:
