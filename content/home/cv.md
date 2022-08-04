@@ -31,7 +31,7 @@ experience:
     date_end: ''
     description: |2-
         Supervised by Professor Zhiting Hu:
-        * Buliding influence function which is scalable to large language model.
+        * Buliding influence function which is scalable to large model.
 
   - title: Kolar ML Lab
     company: The University of Chicago
@@ -42,7 +42,7 @@ experience:
     date_end: ''
     description: |2-
       Supervised by Professor Mladen Kolar and Dr. Sen Na:
-        * Development of randomized Sequential Quadratic Programming (SQP) algorithm based on sketching method.
+        * Development of Sequential Quadratic Programming (SQP) algorithm based on random sketching method.
     
   - title: Uchicago Stats and Graphs Lab
     company: The University of Chicago
@@ -53,7 +53,7 @@ experience:
     date_end: ''
     description: |2-
       Supervised by Professor Claire Donnat:
-        * Semi-supervised graph contrastive learning.
+        * Development of self- and semi-supervised contrastive learning for graph structured data.
     
 
 design:

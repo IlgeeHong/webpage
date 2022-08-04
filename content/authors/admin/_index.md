@@ -15,7 +15,7 @@ highlight_name: true
 interests:
 - Machine Learning
 - Machine Learning for graph-structured data
-- Non-convex optimization
+- Stochastic optimization
 organizations:
 - name: Department of Statistics
 - name: The University of Chicago
@@ -41,4 +41,4 @@ superuser: true
 title: Ilgee Hong
 ---
 
-Hello! My name is Ilgee Hong and I am a second-year master student in the Department of Statistics at the University of Chicago where I am lucky to be advised by [Prof. Claire Donnat](https://donnate.github.io/) and co-advised by [Prof. Mladen Kolar](https://mkolar.coffeejunkies.org/) and Dr. Sen Na. Also, I am working as a visiting intern in the Department of Computer Science at the University of California, San Diego where I am advised by [Prof. Zhiting Hu](http://zhiting.ucsd.edu/index.html). I am broadly interested in machine learning and currently studying machine learning for graph data and randomized non-convex optimization.
+Hello! My name is Ilgee Hong and I am a second-year master student in the Department of Statistics at the University of Chicago where I am lucky to be advised by [Prof. Claire Donnat](https://donnate.github.io/) and co-advised by [Prof. Mladen Kolar](https://mkolar.coffeejunkies.org/) and Dr. Sen Na. Also, I am working as a visiting intern in the Department of Computer Science at the University of California, San Diego where I am advised by [Prof. Zhiting Hu](http://zhiting.ucsd.edu/index.html). I am broadly interested in machine learning and currently studying machine learning for graph structured data and stochastic optimization.
