@@ -22,12 +22,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: AISTATS reviewer
-    company: AISTATS
+  - title: AISTATS 2023 reviewer
+    company: The 26th International Conference on Artificial Intelligence and Statistics
     company_url: 'http://aistats.org/aistats2023/'
     company_logo: ![AISTAT](/Users/ilgeehong/Desktop/webpage/image/aistats.jpeg)
     date_start: '2022-10-01'
-    date_end: '2022-11-30'
+    date_end: ''
     description: |2-
   
   - title: Lab-UCSD
