@@ -22,13 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: AISTATS reviewer
+    company: AISTATS
+    company_url: 'http://aistats.org/aistats2023/'
+    company_logo: ![AISTAT](/Users/ilgeehong/Desktop/webpage/image/aistats.jpeg)
+    date_start: '2022-10-01'
+    date_end: '2022-11-30'
+    description: |2-
+  
   - title: Lab-UCSD
     company: University of California, San Diego
     company_url: ''
     company_logo: ![ucsd](/Users/ilgeehong/Documents/screenshot/ucsd.png)
     location: California
     date_start: '2022-03-01'
-    date_end: ''
+    date_end: '2022-08-24'
     description: |2-
         Supervised by Professor Zhiting Hu:
         * Buliding influence function which is scalable to large model.
@@ -42,7 +50,7 @@ experience:
     date_end: ''
     description: |2-
       Supervised by Professor Mladen Kolar and Dr. Sen Na:
-        * Development of Sequential Quadratic Programming (SQP) algorithm based on random sketching method.
+        * Development of randomized algorithm based on Sequential Quadratic Programming (SQP) for solving large scale nonlinear problems with equality constraints.
     
   - title: Uchicago Stats and Graphs Lab
     company: The University of Chicago
@@ -53,7 +61,7 @@ experience:
     date_end: ''
     description: |2-
       Supervised by Professor Claire Donnat:
-        * Development of self- and semi-supervised contrastive learning for graph structured data.
+        * Development of self-supervised contrastive learning model for graph structured data.
     
 
 design:
