@@ -46,7 +46,7 @@ experience:
     description: |2-
       Supervised by Professor Claire Donnat:
         * Developing self-supervised contrastive learning method for graph-structured data.
-        * First author of ”A Simplified Framework for Contrastive Learning for Node Representations”.
+        * First author of ”A Simplified Framework for Contrastive Learning for Node Representations” (submitted).
 
   - title: Lab-UCSD
     company: University of California, San Diego
