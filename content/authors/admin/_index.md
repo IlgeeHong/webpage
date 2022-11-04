@@ -43,7 +43,7 @@ title: Ilgee Hong
 
 My name is Ilgee Hong and I am a second-year master student in the Department of Statistics at the University of Chicago where I am lucky to be advised by [Prof. Claire Donnat](https://donnate.github.io/) and co-advised by [Prof. Mladen Kolar](https://mkolar.coffeejunkies.org/) and Dr. Sen Na. 
 
-Also, I have worked as a visiting intern in the Department of Computer Science at the University of California, San Diego where I was advised by [Prof. Zhiting Hu](http://zhiting.ucsd.edu/index.html). 
+In summer 2022, I worked as a visiting intern in the Department of Computer Science at the University of California, San Diego under the supervision of [Prof. Zhiting Hu](http://zhiting.ucsd.edu/index.html). 
 
 I received bachelor's degrees in Applied Statistics at Yonsei University in 2020. During my senior year at the college, I also worked with Prof. Sangun Park.
 
